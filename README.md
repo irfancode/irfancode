@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Irfan 👋</h1>
+<h1 align="center">Irfan</h1>
 
 <p align="center">
-  <b>DevOps & Cloud Infrastructure Consultant</b><br>
+  <b>Technology Executive | Business Transformation Leader</b><br>
   <i>Singapore 🇸🇬</i>
 </p>
 
@@ -13,48 +13,52 @@
 
 ---
 
-### What I Do
+### Strategic Focus
 
-I help businesses **accelerate software delivery** through DevOps transformation.
-
-When IT leaders face the bewildering landscape of fragmented DevOps tools — I bring it all together to create the **chain effect**: faster time to market, leaner processes, and agile delivery.
+I architect technology strategies that drive business growth. When organizations face complex digital transformation challenges, I provide the vision and execution framework to turn technology into competitive advantage.
 
 ---
 
-### Expertise
+### Leadership Pillars
 
-| Area | Focus |
-|------|-------|
-| **DevOps Strategy** | Evangelization, roadmaps, adoption frameworks |
-| **CI/CD** | Pipeline design, automation, delivery optimization |
-| **Infrastructure as Code** | Terraform, Ansible, configuration management |
-| **Containers** | Docker, Kubernetes, orchestration |
-| **Cloud** | AWS, Azure, GCP architecture |
-
----
-
-### Background
-
-- **20 years** in IT consulting
-- Enterprise infrastructure modernization
-- Cross-industry delivery optimization
-
-*Always exploring new technologies to solve real business problems.*
+| Pillar | Focus |
+|--------|-------|
+| **Strategy** | Technology roadmaps, digital transformation, ROI-driven initiatives |
+| **Innovation** | Emerging tech adoption, competitive differentiation |
+| **Execution** | Delivery excellence, operational efficiency, time-to-market optimization |
+| **People** | Building high-performing teams, organizational change management |
 
 ---
 
-### Key Projects
+### Business Impact
 
-| Project | Description |
-|---------|-------------|
-| [mac-catalyst](https://github.com/irfancode/mac-catalyst) | macOS environment replication tool |
-| [MyUbuntu](https://github.com/irfancode/MyUbuntu) | Ubuntu server management platform |
-| [MacAdmin](https://github.com/irfancode/MacAdmin) | Mac administration toolkit |
-| [SharperEdge](https://github.com/irfancode/SharperEdge) | Privacy-focused Edge browser config |
+- **Revenue Growth** — Technology enablement strategies that open new markets
+- **Cost Optimization** — Infrastructure modernization reducing operational spend
+- **Speed to Market** — Delivery pipeline acceleration from months to weeks
+- **Risk Mitigation** — Security-first architectures and compliance frameworks
 
 ---
 
-### Let's Connect
+### Track Record
+
+**20 years** leading technology transformations across industries — from strategy to execution.
+
+*Always exploring emerging technologies to solve tomorrow's business challenges today.*
+
+---
+
+### Portfolio
+
+| Initiative | Business Outcome |
+|------------|------------------|
+| [mac-catalyst](https://github.com/irfancode/mac-catalyst) | Developer productivity platform — reduce onboarding from days to minutes |
+| [MyUbuntu](https://github.com/irfancode/MyUbuntu) | Infrastructure management platform — simplified operations for lean teams |
+| [MacAdmin](https://github.com/irfancode/MacAdmin) | Enterprise device management — scalable fleet administration |
+| [SharperEdge](https://github.com/irfancode/SharperEdge) | Security optimization — enterprise-grade privacy compliance |
+
+---
+
+### Connect
 
 <p>
   <a href="https://linkedin.com/in/sirfan98cs">
@@ -64,10 +68,10 @@ When IT leaders face the bewildering landscape of fragmented DevOps tools — I 
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" alt="Twitter">
   </a>
   <a href="https://github.com/irfancode?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-51-green?style=flat-square" alt="Repos">
+    <img src="https://img.shields.io/badge/Initiatives-51-green?style=flat-square" alt="Initiatives">
   </a>
 </p>
 
 ---
 
-<p align="center"><i>Building the chain effect, one automation at a time.</i></p>
+<p align="center"><i>Turning technology vision into business reality.</i></p>
