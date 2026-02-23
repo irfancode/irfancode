@@ -40,26 +40,27 @@
 
 ## 👨‍💻 About Me
 
-**Cloud & DevOps Engineer** based in **Singapore** 🇸🇬 with **13+ years** of experience building and automating infrastructure at scale.
+**Cloud & DevOps Engineer** based in **Singapore** 🇸🇬 with **two decades of IT consulting experience** helping enterprises transform their technology landscape.
 
-I transform complex infrastructure challenges into elegant, automated solutions. From bare metal to cloud-native, I've spent over a decade mastering the art of making systems reliable, scalable, and secure.
+I transform complex business challenges into elegant, automated solutions. From bare metal to cloud-native, I've spent years mastering the art of making systems reliable, scalable, and secure. **Always on the verge of learning and exploring something new and fascinating** to solve today's most pressing business problems in the IT landscape.
 
 ```yaml
+background:
+  - Two decades of IT consulting
+  - Enterprise infrastructure modernization
+  - Cross-industry problem solving
+
 current_focus:
   - Infrastructure as Code
   - Container Orchestration
   - CI/CD Pipeline Automation
   - Cloud Architecture (AWS/Azure)
   
-learning:
+always_exploring:
   - AI/ML Integration in DevOps
   - Platform Engineering
   - GitOps & ArgoCD
-  
-collaboration:
-  - Cloud Infrastructure Projects
-  - Enterprise Software Solutions
-  - Open Source Contributions
+  - Emerging technologies that solve real business problems
 ```
 
 ---
@@ -169,17 +170,17 @@ collaboration:
 
 ## 💡 Philosophy
 
-> *"Infrastructure should be boring - in a good way. When your systems are automated, documented, and resilient, you can focus on what matters: building the next great thing."*
+> *"Infrastructure should be boring - in a good way. When your systems are automated, documented, and resilient, you can focus on what matters: solving the next business challenge."*
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🎯 What I Bring
+- **Two Decades of Expertise**: Deep consulting background across industries
 - **Automation First**: Every manual process is an opportunity
 - **Documentation Driven**: If it's not documented, it doesn't exist
-- **Security Minded**: Defense in depth, zero trust principles
-- **Cloud Native**: Built for scale, designed for resilience
+- **Always Learning**: Exploring new tech to solve real problems
 
 </td>
 <td width="50%">
