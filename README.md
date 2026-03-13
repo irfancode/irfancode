@@ -41,7 +41,7 @@ I architect technology strategies that drive business growth. When organizations
 
 ### Track Record
 
-**20 years** leading technology transformations across industries — from strategy to execution.
+Leading technology transformations across industries — from strategy to execution.
 
 *Always exploring emerging technologies to solve tomorrow's business challenges today.*
 
