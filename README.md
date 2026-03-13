@@ -58,6 +58,22 @@ I architect technology strategies that drive business growth. When organizations
 
 ---
 
+### Repositories
+
+| Category | Repositories |
+|----------|-------------|
+| **DevOps** | Ansible, charts, CI_Delivery, Docker, jenkins, rancher, swarm, machine, kitematic, WSL |
+| **System Admin** | mac-catalyst, MacAdmin, MacAdmin-master, MacDevEnv, Mac-Sysmon, MyUbuntu, SysMan |
+| **TUI/CLI** | readflow, TermPy_Browser, cd |
+| **Data Science** | BDA, BDAv.10, datascience, DataScience_v1, datalore, notebooks, pytorchfundamentals, stock_recommend |
+| **Security** | SharperEdge, google-photos-duplicate-finder |
+| **Cloud** | Azure, aws_solution_architecture_diagram, aws_solutions, AzureDataStudio, WSL2.0_Debian |
+| **Web** | irfancode.github.io, AngularJS, npm, SmartHotel360-Website, windows-uwp |
+| **Forks** | bosh-lite, icinga2_vagrant_docker, mslearn-*, powerline, terminal, Hijri-Calendar-for-Gnome-Shell |
+| **Private** | Azure, Capstone, python, proj_a, repo, Statistical_Analysis, train, DevOps_Course |
+
+---
+
 ### Connect
 
 <p>
