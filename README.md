@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2000&pause=800&color=6366f1&background=0D111700&center=true&vCenter=true&random=false&width=560&lines=DevSecOps+%7C+Platform+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2000&pause=800&color=6366f1&background=0D111700&center=true&vCenter=true&random=false&width=440&lines=Solution+Architect" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Cloud-first technologist with a track record of translating complex infrastructure challenges into competitive advantages. From DevOps pipelines to enterprise-scale platform engineering — I build what scales.
 
-**Currently focused on:** DevSecOps · Platform Engineering
+**Currently focused on:** Solution Architect
 
 ---
 
