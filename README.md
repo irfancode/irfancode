@@ -1,22 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&random=false&width=500&lines=FinOps+%7C+DevSecOps+%7C+AI+%7C+Platform+Engineering" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/FinOps-DevSecOps-AI-Platform%20Engineering-6366f1?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Focus Areas" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/irfancode/count.svg?style=for-the-badge&label=Repos&color=58A6FF&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/20%2B%20Years-Experience-2ea043?style=for-the-badge&logo=calendar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Singapore-Based-ff6b6b?style=for-the-badge&logo=map-pin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/55%20Repos-Public-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## About Me
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  Building technology platforms that drive business outcomes   ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 Cloud-first technologist with a track record of translating complex infrastructure challenges into competitive advantages. From DevOps pipelines to enterprise-scale platform engineering — I build what scales.
 
@@ -64,16 +58,7 @@ Cloud-first technologist with a track record of translating complex infrastructu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irfancode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=false" alt="irfancode's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfancode&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="irfancode's GitHub Streak"/>
 </p>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=irfancode&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&areaColor=161B22&radius=8&curved=true)
-<!--END_SECTION:activity-->
 
 ---
 
@@ -97,7 +82,7 @@ Cloud-first technologist with a track record of translating complex infrastructu
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=60&section=footer&fontSize=16&fontColor=ffffff" alt="Waving Footer"/>
+  <em>Turning technology vision into business reality.</em>
 </p>
 
 <details>
