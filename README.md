@@ -33,14 +33,14 @@ Cloud-first technologist with a track record of translating complex infrastructu
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stats/irfancode?color=58A6FF&style=for-the-badge&logo=github" alt="Total Commits"/>
-  <img src="https://img.shields.io/github/stars/irfancode?color=fbbf24&style=for-the-badge&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/irfancode?color=a855f7&style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/commits/irfancode?color=58A6FF&label=Total%20Commits&style=for-the-badge&logo=github" alt="Total Commits"/>
+  <img src="https://img.shields.io/github/stars/irfancode?color=fbbf24&label=Stars&style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/irfancode?color=a855f7&label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/irfancode?color=2ea043&style=for-the-badge&logo=github" alt="Languages"/>
-  <img src="https://img.shields.io/github/languages/top/irfancode?color=f97316&style=for-the-badge&logo=github" alt="Top Language"/>
+  <img src="https://img.shields.io/github/languages/count/irfancode?color=2ea043&label=Languages&style=for-the-badge&logo=github" alt="Languages"/>
+  <img src="https://img.shields.io/github/languages/top/irfancode?color=f97316&label=Top%20Lang&style=for-the-badge&logo=github" alt="Top Language"/>
 </p>
 
 ---
