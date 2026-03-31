@@ -20,21 +20,27 @@ Cloud-first technologist with a track record of translating complex infrastructu
 
 ## Tech Stack
 
-| | | | |
+| AWS | Azure | Kubernetes | Docker |
 |:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" alt="AWS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" alt="Azure"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" alt="Terraform"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="36" alt="Ansible"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" alt="Rust"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" alt="AWS"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" alt="Azure"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" alt="Kubernetes"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" alt="Docker"/> |
+
+| Terraform | Ansible | Python | Rust |
+|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg" width="36" alt="Terraform"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" width="36" alt="Ansible"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" alt="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="36" alt="Rust"/> |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfancode&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="irfancode's GitHub Stats"/>
+  <img src="https://img.shields.io/github/stats/irfancode?color=58A6FF&label=Total%20Commits&style=for-the-badge&logo=github" alt="Total Commits"/>
+  <img src="https://img.shields.io/github/stars/irfancode?color=fbbf24&label=Stars&style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/irfancode?color=a855f7&label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfancode&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/languages/count/irfancode?color=2ea043&label=Languages&style=for-the-badge&logo=github" alt="Languages"/>
+  <img src="https://img.shields.io/github/languages/top/irfancode?color=f97316&label=Top%20Lang&style=for-the-badge&logo=github" alt="Top Language"/>
 </p>
 
 ---
