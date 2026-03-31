@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&random=false&width=435&lines=Technology+Executive+%7C+Business+Transformation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&random=false&width=500&lines=FinOps+%7C+DevSecOps+%7C+AI+%7C+Platform+Engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 Cloud-first technologist with a track record of translating complex infrastructure challenges into competitive advantages. From DevOps pipelines to enterprise-scale platform engineering — I build what scales.
 
-**Currently exploring:** Agentic AI in DevOps | Platform Engineering | FinOps
+**Currently focused on:** FinOps · DevSecOps · AI · Platform Engineering
 
 ---
 
